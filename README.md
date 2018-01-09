@@ -6,7 +6,7 @@
 - [x] 1. Introduction
 - [x] 2. Getting set up
 - [x] 3. Architect your App Shell
-- [ ] 4. Implement your App Shell
+- [x] 4. Implement your App Shell
 - [ ] 5. Start with a fast first load
 - [ ] 6. Use service workers to pre-cache the App Shell
 - [ ] 7. Use service workers to cache the forecast data
