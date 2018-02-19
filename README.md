@@ -1,5 +1,7 @@
 # PWA Sandbox
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/naokie/pwa-sandbox.svg)](https://greenkeeper.io/)
+
 ## Read first
 [Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
 
